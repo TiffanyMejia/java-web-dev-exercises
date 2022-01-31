@@ -23,8 +23,7 @@ public class ArrayListPractice {
         );
         System.out.println(sumEven(nums));
 
-        ArrayList<String> wowverse = new ArrayList<>(
-                Arrays.asList(
+        ArrayList<String> wowverse = new ArrayList<>(Arrays.asList(
                         "Anduin",
                         "Jaina",
                         "Sylvanas",
